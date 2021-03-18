@@ -237,4 +237,4 @@ TSWLatexianTemp*
 .idea/
 
 #Compiled PDF files
-*compiled/*
+lectures/compiled/
